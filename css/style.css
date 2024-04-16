@@ -45,6 +45,13 @@ h3{
     left: 09%;
     font-size: 15px;
 }
+
+.viaje-2 {
+    margin: 0 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 .precio {
     background-color: #eb4245;
     color: #fff;
